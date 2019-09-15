@@ -2,7 +2,7 @@
   "name": "unsplash-app",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "https://judrcinho.github.io/usplash_demo",
+  "homepage": "https://judrcinho.github.io/usplash_demo",
   "dependencies": {
     "@material-ui/core": "^4.4.2",
     "@material-ui/icons": "^4.4.1",
@@ -10,6 +10,7 @@
     "@types/node": "12.7.5",
     "@types/react": "16.9.2",
     "@types/react-dom": "16.9.0",
+    "gh-pages": "^2.1.1",
     "material-ui-chip-input": "^2.0.0-beta.1",
     "material-ui-image": "^3.2.1",
     "node-sass": "^4.12.0",
