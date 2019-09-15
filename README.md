@@ -1,3 +1,8 @@
+Demo Page:
+https://judrcinho.github.io/usplash_demo/
+
+Currently there is a small front-end issue: each word in seacrh field needs to be follwed by Enter or White Space (before you can click 'Search')
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
