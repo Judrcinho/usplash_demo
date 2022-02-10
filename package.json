@@ -13,7 +13,7 @@
     "gh-pages": "^2.1.1",
     "material-ui-chip-input": "^2.0.0-beta.1",
     "material-ui-image": "^3.2.1",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1",
